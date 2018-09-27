@@ -1,2 +1,2 @@
 # shinplasters
-Currency to subunit mapping.
+Currency code to subunit mapping.
